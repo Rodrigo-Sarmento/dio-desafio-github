@@ -1,0 +1,20 @@
+TCP/IP = protocolos de comunicação entre computadores em rede
+
+4 camadas:
+1. Física(placa de rede)
+2. Rede(IP)
+3. Transporte(TCP, UDP)
+4. Aplicação(FTP, SMTP, HTTP)
+
+UDP = rápido, não confiável(envia a mensagem sem se importar com quem está recebendo, ex:Livestream)
+TCP = integridade, ordem dos dados(sabe quem recebeu a mensagem, ex: app de mensagem de texto)
+
+Portas:
+20: FTP
+22: SSH
+25: SMTP
+53: DNS
+80: HTTP
+443: HTTPS
+
+*OBS: As operadoras de telefonia móvel não tem nenhum custo com envios de SMS, pois o celular está se comunicando constantemente com a operadora.
