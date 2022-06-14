@@ -1,0 +1,28 @@
+dir = lista os diretorios
+cd = navega pelos diretorios
+cls = limpa o terminal
+mkdir = cria uma pasta
+del = deleta arquivos
+rmdir = deleta a pasta com tudo dentro
+
+git clone +link = clona o repositório para a máquina.
+
+git init = inicializa o repositório git.
+
+git add . = adiciona todas as alterações
+
+git commit -m "mensagem" = faz um commit
+
+*obs: o comando git add prepara os arquivos para serem commitados
+
+git status = mostra o estado dos arquivos
+
+*obs: quando um arquivo está no estado staged significa que ele está pronto para ser commitado
+
+git config --list = mostra o usuário e o email junto com outras configurações do git
+
+git pull = puxa o código remoto para a máquina local
+
+git pull origin master = puxa o código da branch master
+
+git push origin master = empurra o código para a branch master

@@ -1,0 +1,13 @@
+*o pensamento computacional é dividido em 4 pilares: Decomposição, Reconhecimento de padrões, Abstração e Design de algoritmos
+
+1.Decomposição-Dividir um problema complexo em subproblemas
+
+2.Reconhecimento de padrões-Identificar padrões ou tendências
+
+3.Abstração-Extrapolar o conceito do problema para uma forma generalista
+
+4.Design de algoritmos(Automatizar)-Definir passo a passo a solução do problema.
+
+*A compressão de dados é feita através de reconhecimento de padrões.
+
+*O objetivo da abstração é tornar a solução reutilizavel.
